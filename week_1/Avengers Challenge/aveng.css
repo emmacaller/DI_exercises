@@ -1,0 +1,47 @@
+body{background-image: url( blackwidow.jpg);
+background size: cover;
+}
+*{margin: 0}
+
+li{list-style: none;
+cursor: pointer;
+display: inline-block;
+text-transform: uppercase;
+transition: all 1s;
+}
+
+li:hover{transform: scale(1.1);}
+
+header{ width: 100%;
+	height:100px;
+	background-color: grey;
+}
+
+
+#div1 {color: white;
+font-size: 3em;
+line-height: 26pt;
+word-spacing: 40px;
+text-align: right;
+font-style: oblique;
+font-weight: bold;
+font-family: 'Staatliches', cursive;
+position: relative;
+top: 30px;
+right: 40px;
+}
+
+img{position: relative;
+right: 1100px;
+bottom: 55px;
+}
+
+
+#div2{ 
+text-transform: uppercase;
+letter-spacing: 3px;
+line-height: 1.2;
+position: relative;
+left: 50px ;
+top: 200px;}
+
